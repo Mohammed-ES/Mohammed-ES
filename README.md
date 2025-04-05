@@ -56,7 +56,6 @@ I strive to be:
 I'm always open to collaborations, discussions, and exchanging ideas. Feel free to reach out if you're interested in working together or simply want to chat about the latest tech trends.
 
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/elouazzani-mohammed-556b03343)
-- **Email**: [mohammedelouazzani73@gmail.com](mailto:mohammedelouazzani73@gmail.com)
 
 ---
 
