@@ -1,62 +1,117 @@
-# Hi there! 👋
+<!-- Banner -->
+<h1 align="center">Hi there, I'm Mohammed Elouazzani 👋</h1>
+<p align="center">
+  <i>Computer Science Student | Web Developer | Cybersecurity Enthusiast</i>
+</p>
 
-Welcome to my GitHub profile! I'm a first-year Computer Science student driven by an insatiable passion for programming, development, and problem-solving. My academic journey is all about acquiring in‑depth knowledge and practical skills in areas such as software development, information security, and database management. 💻🔐
-
----
-
-## About Me
-
-### 🎓 Education
-I'm currently pursuing my studies in Computer Science, where I dive deep into learning the latest technologies and development methodologies. My education empowers me to combine theory with hands‑on projects, enabling me to tackle real-world challenges. 📚💡
-
-### 💻 Interests & Projects
-I love exploring diverse areas of technology—from web development and cybersecurity to emerging trends like AI 🤖. Every project is a new challenge that fuels my desire to learn and grow:
-- **Cybersecurity Projects**
-  - **DDoS Simulation Tool** 🔥  
-    A Python-based project designed to simulate and analyze DDoS attacks.
-- **Web Development Projects**
-  - **School Transport Supervision App** 🚍  
-    - Designed conceptual models using PowerAMC  
-    - Set up a MySQL database with WAMP  
-    - Continuously enhancing the application with new features.
-- **Personal Projects**
-  - **Portfolio Website** 🌐  
-    Currently in progress, this responsive site will showcase my projects and skills.
-
-### 🎨 Skills
-- **Front-End Development**: HTML, CSS, JavaScript 🌟  
-- **Back-End Development**: PHP, MySQL 🛠️  
-- **Tools & IDEs**: IntelliJ IDEA, VS Code, along with graphic design tools for social media management 🎨
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=elouazzani-dev&style=flat-square&color=blue" alt="Profile views" />
+  <img alt="Stars" src="https://img.shields.io/github/stars/elouazzani-dev?style=flat-square&label=Stars"/>
+</p>
 
 ---
 
-## What I’m Currently Learning
-- **Web Development**: Creating modern, responsive websites that adapt to all devices 📱💻.
-- **Data Structures and Algorithms**: Mastering problem-solving and optimization techniques 🧠⚙️.
-- **Database Management**: Designing and managing robust relational databases 📊.
+## 👨‍💻 About Me
+
+- 🎓 I'm a first-year **Computer Science student** passionate about tech, problem-solving and development.
+- 💻 Currently learning modern web development and **AI integration**.
+- 🔐 Cybersecurity enthusiast with interest in **ethical hacking** and secure systems.
+- 🧠 Constantly improving my skills through real-world projects and personal challenges.
 
 ---
 
-## Future Goals
-- **Innovative Web Applications**: Develop secure web applications tailored to real-world challenges 🔒🌍.
-- **Advanced Cybersecurity**: Enhance my skills in cybersecurity and contribute to impactful open-source projects globally 🌐🔐.
-- **Full-Stack Mastery**: Become a full-stack developer capable of building scalable and efficient systems 🚀.
+## 🔧 Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Backend & Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+### Tools & IDEs
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## How I Work
-I strive to be:
-- **Organized & Detail-Oriented**: Every project benefits from a structured approach—from planning to execution 📋✅.
-- **Collaborative**: I enjoy working with like-minded individuals to create innovative solutions 🤝.
-- **Curious & Proactive**: Always on the lookout for new technologies and methods to improve my expertise 🔍📈.
+## 🚀 Featured Projects
+
+### 📚 StudyNotes – AI-Powered Note Platform
+> A smart note-taking platform that helps students organize course materials and generate summaries & quizzes.
+
+- Tech: React, PHP, MySQL, Gemini API
+- Features: Smart note management, quiz generation
 
 ---
 
-## Let’s Connect!
-I'm always open to collaborations, discussions, and exchanging ideas. Feel free to reach out if you're interested in working together or simply want to chat about the latest tech trends.
+### 🚗 School Transport Supervision App
+> A web app for managing school bus logistics and real-time updates.
 
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/elouazzani-mohammed-556b03343)
+- Tech: PHP, MySQL
+- Tools: PowerAMC, WAMP → **Now XAMPP**
+- Features: Vehicle supervision, scheduling
 
 ---
 
-Thank you for stopping by my profile! Let's innovate together and make a real impact in the tech world! 🚀✨
+### 🤖 KhadmaAI – Hackathon Project
+> AI-based job matching and automation platform.
+
+- Tech: TypeScript, AI/ML
+- Features: Workflow automation, job suggestions
+
+---
+
+### 🧠 DDoS Educational Tool
+> Cybersecurity tool for learning DDoS simulation (ethical use only).
+
+- Tech: Python, HTML, CSS
+
+---
+
+### 🌐 Personal Portfolio Website
+> A responsive website to showcase my work and skills (in progress).
+
+- Tech: TypeScript, CSS
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elouazzani-dev&show_icons=true&theme=github_dark" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elouazzani-dev&layout=compact&theme=github_dark" width="48%"/>
+</p>
+
+---
+
+## 📈 Current Focus
+
+- 🧱 Building scalable full-stack apps
+- 🔐 Studying cybersecurity and simulations
+- 📊 Enhancing database management skills
+- 🤝 Participating in hackathons and AI challenges
+
+---
+
+## 🤝 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elouazzani-mohammed-556b03343)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedelouazzani.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammed-ES)
+
+---
+
+## ✨ Quote
+
+> “Building secure, intelligent solutions that make a positive impact.” 🌍💡
+
+---
